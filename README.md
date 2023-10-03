@@ -6,3 +6,6 @@
 *  **About Me** :  
   I am a mechanical engineer with a curiosity for coding and programming, eager to explore the intersection of engineering and technology.
   
+# future-plan
+
+* Studying Javascript and other coding diciplines
